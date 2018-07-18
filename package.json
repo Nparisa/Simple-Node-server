@@ -1,0 +1,24 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "Simple Node Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nparisa/Simple-Node-server.git"
+  },
+  "author": "Noushin Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nparisa/Simple-Node-server/issues"
+  },
+  "homepage": "https://github.com/Nparisa/Simple-Node-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
